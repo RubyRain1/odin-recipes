@@ -1,0 +1,19 @@
+.test{
+    color: red;
+}
+body{
+    background-color: #3d354b;
+}
+div.button-align{
+    text-align: center;
+}
+
+button{
+    font-size: large;
+    background-color: blanchedalmond;
+}
+
+.Mh1{
+    text-align: center;
+    color: blanchedalmond;
+}
