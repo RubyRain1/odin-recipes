@@ -3,7 +3,7 @@ body{
     color: blanchedalmond;
     font-family: cursive;
 }
-div.button-align,
+
 .title{
     text-align: center;
 }
@@ -12,6 +12,8 @@ button{
     font-size: large;
     background-color: blanchedalmond;
     font-family: cursive;
+    border-radius: 20px;
+    
 }
 
 .img{ 
@@ -19,5 +21,22 @@ button{
     margin-right: auto;
     display: block;
     border:black;
-    border-radius: 20px;
+    border-radius: 40px;
 }
+
+button:hover{
+    background-color:rgb(231, 215, 123);
+}
+
+.button1{
+    position: relative; left: 300px; top: -200px;
+}
+
+.button2{
+    position: relative; right: -1280px; top: -225px;
+}
+
+.button3{
+    text-align: center;
+}
+
