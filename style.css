@@ -1,19 +1,23 @@
-.test{
-    color: red;
-}
 body{
     background-color: #3d354b;
+    color: blanchedalmond;
+    font-family: cursive;
 }
-div.button-align{
+div.button-align,
+.title{
     text-align: center;
 }
 
 button{
     font-size: large;
     background-color: blanchedalmond;
+    font-family: cursive;
 }
 
-.Mh1{
-    text-align: center;
-    color: blanchedalmond;
+.img{ 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border:black;
+    border-radius: 20px;
 }
